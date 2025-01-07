@@ -22,7 +22,7 @@ function App() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const response = await fetch("https://diabetes-risk-h4rf.onrender.com/", {
+    const response = await fetch("https://diabetes-risk-h4rf.onrender.com/predict", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
