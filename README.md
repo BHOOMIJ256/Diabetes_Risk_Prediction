@@ -7,25 +7,25 @@ You can Check out the Project
 
 <h2><b>Tech Stack</h2></b>
 
-**Frontend:**
+<h3><b>Frontend:</h3></b>
 
 >**React:** For building the user interface.
 
 >**CSS:** For styling the application.
 
-**Backend:**
+<h3><b>Backend:</h3></b>
 
 >**Flask:** A lightweight web framework in Python.
 
 >**Python:** Core Programming Language for Model Development
 
-**Machine Learning:**
+<h3><b>Machine Learning:</h3></b>
 
 >**Scikit-learn:** Used for Building the Model. This model is based on Random Forest Classifier for classification task
 
 >**Numpy&Pandas:** Data preprocessing and manipulation
 
-**Deployment:**
+<h3><b>Deployment:</h3></b>
 
 >**Frontend:** Deployed React frontend on Vercel.
 
@@ -33,7 +33,7 @@ You can Check out the Project
 
 <h2><b>Model Pipeline</h2></b>
 
-**1.Data Preprocessing:**
+<h4>1.Data Preprocessing:</h4>
 <p> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 1.Missing values handled and cleaned.
 	
@@ -44,15 +44,17 @@ You can Check out the Project
 3.Features standardized for consistent model performance.
 </p>
 
-**2.Model Training:**
+<h4><b>2.Model Training:</h4></b>
 <p> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 1.Algorithm: Random Forest Classifier.
+	
 <p> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 2.Evaluation Metrices: Accuracy, Confusion Matrix and Classification Report
+	
 <p> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
 3.Training Data: Dataset containing health metrics and corresponding diabetes risks.
 
-**3.Model Serialization:**
+<h4><b>3.Model Serialization:</h4></b>
 
  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;
  Trained model saved using Pickle for deployment.
