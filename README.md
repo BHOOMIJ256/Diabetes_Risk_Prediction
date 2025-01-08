@@ -3,7 +3,7 @@
 <h2><b>Overview</h2></b>
 
 This project is a web-based application for predicting diabetes risk based on multiple health-related parameters such as weight, height, blood glucose level, physical activity, diet, and other lifestyle factors. The project consists of a frontend built with React and a backend powered by Flask, using a machine learning model to make predictions.
-You can Check out the Project 
+You can Check out the Project <a href = "https://diabetes-risk-prediction-seven.vercel.app/">here</a>
 
 <h2><b>Tech Stack</h2></b>
 
